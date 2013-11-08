@@ -22,7 +22,7 @@ Construir una cañería que interconecte dos caños localizados en los extremos 
 
 Implementar la clase `Plomero` a partir de la siguiente especificación: [`Plomero.java`](./src/Plomero.java).
 
-Enumerado `Material` [ver](./src/Material.java)
+Enumerado `Material`: [`Material.java`](./src/Material.java)
 
 ## Ejemplo del array `pared`
 
