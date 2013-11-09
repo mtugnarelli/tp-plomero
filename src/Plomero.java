@@ -13,7 +13,7 @@ public class Plomero {
      *       solo modificando aquellas posiciones en las que exista un elemento Material.LADRILLO.
      * 
      * @param pared : arreglo regular, donde la primera dimensión corresponde 
-     *                con el ancho y la segunda con el alto. 
+     *                con el alto (fila) y la segunda con el ancho (columna). 
      *                
      */
     public void construirCanieria(Material[][] pared) {

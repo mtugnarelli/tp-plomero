@@ -54,3 +54,8 @@ En función a las pruebas que pasen, se asignará una nota al trabajo.
 
 El 60% de las pruebas garantiza la aprobación.
 
+## Pruebas Unitarias
+
+Pruebas iniciales básicas con cañerías lineales: [`PruebaPlomeroPrincipiante.java`](./src/PruebaPlomeroPrincipiante.java)
+
+
