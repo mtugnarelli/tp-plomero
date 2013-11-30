@@ -70,7 +70,7 @@ public class PruebaPlomeroPrincipiante {
 		this.plomero.construirCanieria(pared);
 		
 		/* comprobación */
-		Assert.assertEquals(Material.CANIO_HORIZONTAL, pared[1][1]);
+		Assert.assertEquals(Material.CANIO_HORIZONTAL, pared[2][1]);
 	}
 
 	@Test
